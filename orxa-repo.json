@@ -1,0 +1,8 @@
+{
+  "name": "ORXA Cloudstream Repository",
+  "description": "ORXA provider for Cloudstream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/orstar626-eng/cloudstrwam234/main/plugins.json"
+  ]
+}
