@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ORXA",
+    "internalName": "OrxaProvider",
+    "description": "ORXA Arabic movies and series provider - Player 3 first with fallbacks",
+    "version": 3,
+    "status": 1,
+    "authors": ["ORXA"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "ar",
+    "iconUrl": "https://orxa.vercel.app/icon.png",
+    "repositoryUrl": "https://github.com/orstar626-eng/cloudstrwam234",
+    "url": "https://raw.githubusercontent.com/orstar626-eng/cloudstrwam234/main/ORXA-v3.cs3",
+    "apiVersion": 1
+  }
+]
